@@ -18,6 +18,4 @@ $message = "
 <p>Comentarios: $comentarios </p> 
 </body>
 </html>";
- echo 'Gracias por comunicarse con nosotros';
-mail($to, $subject, $message, $headers);
-?>
+ echo 'Gracias por comunicarse con nosotrt, $message, $headers);
